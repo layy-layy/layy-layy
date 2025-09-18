@@ -29,7 +29,7 @@ Feel free to explore and contribute!
 - 📧 **Email:** [your-email@example.com](yebataren@proton.me)
 - 🌐 **Website:** [yourwebsite.com](http://yourwebsite.com)
 - 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 💼 **LinkedIn:** [Your LinkedIn Profile]((https://www.linkedin.com/in/lay-l-992bb4378/))
 
 ## 📝 Blog Posts
 
