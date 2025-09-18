@@ -12,7 +12,7 @@ Hello! I'm Layla Barkat, a passionate developer from Tunisia 🇹🇳. Welcome t
 - 👨‍⚕️ **Profession:** first year Uni student
 - 🌍 **Location:** Tunisia
 - 📚 **Interests:** AI & Machine Learning 🤖, OSINT 📊, cybersecurity 🌍
-- 🎓 **Education:** [Your Degree/Field] from [Your Institution]
+- 🎓 **Education:** [1st year] from [polytech Monastir]
 
 ## 📂 Projects
 
