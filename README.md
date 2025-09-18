@@ -1,6 +1,6 @@
 👋 Welcome to Layla Barkat's GitHub Profile
 
-Hello! I'm Layla Barkat, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
+Hello! I'm Layla Barkat, a passionate developer from Algeria located in Tunisia. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
 
 ## 🛠️ Technologies & Tools
 
